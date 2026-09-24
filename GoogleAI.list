@@ -1,0 +1,24 @@
+# GOOGLE AI & GEMINI
+
+# Основные веб-интерфейсы
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,generativeai.google
+DOMAIN-SUFFIX,ai.google.dev
+DOMAIN-SUFFIX,aistudio.google.com
+DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,deepmind.google
+DOMAIN-SUFFIX,notebooklm.google.com
+DOMAIN-SUFFIX,notebooklm.google
+
+# Точечные API для работы мобильного приложения на iPhone и сложных запросов
+DOMAIN,generativelanguage.googleapis.com
+DOMAIN,alkalimakerspace-pa.googleapis.com
+DOMAIN,proactivebackend-pa.googleapis.com
+DOMAIN,aida.googleapis.com
+
+# === GROK (xAI) ===
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,x.ai
+
+# === PERPLEXITY ===
+DOMAIN-SUFFIX,perplexity.ai
